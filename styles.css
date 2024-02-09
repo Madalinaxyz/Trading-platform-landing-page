@@ -1,0 +1,362 @@
+.main-container{
+    width: 100%;
+    height: 100vh; /* 100% of the viewport height */
+    background-color: white;
+}
+/* Group 676 */
+
+.nav_container{
+position: absolute;
+width: 100%;
+height: 80px;
+left: 0px;
+top: 0px;
+}
+
+.hero_container{
+position: absolute;
+width: 100%;
+height: 720px;
+left: 0px;
+top: 80px;
+
+/* violet */
+background: #6248FF;
+opacity: 0.1;
+}
+#statistics{
+    position:absolute;
+    opacity: 1!important;
+}
+
+
+
+/* Rectangle 528 */
+
+.nav_bar{
+position: absolute;
+width: 100%;
+height: 80px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+}
+
+
+/* Frame 522 */
+
+
+/* Auto layout */
+.nav_links{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 574px;
+height: 16px;
+left: 222px;
+top: 32px;
+list-style-type:none;
+/* justify-content: center; */
+
+}
+
+/* LOGO */
+
+.nav_logo{
+position: absolute;
+width: 45px;
+height: 16px;
+left: 120px;
+top: 32px;
+
+font-family: 'Museo Sans Cyrl';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 16px;
+/* identical to box height, or 107% */
+
+/* Gray 1 */
+color: #333333;
+}
+
+
+/* How it works */
+
+.how_it_works{
+width: 93px;
+height: 16px;
+
+font-family: 'Museo Sans Cyrl';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 16px;
+/* identical to box height, or 107% */
+
+/* Gray 1 */
+color: #333333; 
+
+}
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Inside auto layout */
+
+
+
+
+
+/* About */
+
+.about{
+width: 44px;
+height: 16px;
+
+font-family: 'Museo Sans Cyrl';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 16px;
+/* identical to box height, or 107% */
+
+/* Gray 1 */
+color: #333333;
+
+}
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+
+/* Instructions */
+
+.instructions{
+width: 85px;
+height: 16px;
+
+font-family: 'Museo Sans Cyrl';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 16px;
+/* identical to box height, or 107% */
+
+/* Gray 1 */
+color: #333333;
+
+}
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Inside auto layout */
+
+
+
+/* Accounts */
+
+.accounts{
+width: 66px;
+height: 16px;
+
+font-family: 'Museo Sans Cyrl';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 16px;
+/* identical to box height, or 107% */
+
+/* Gray 1 */
+color: #333333;
+
+
+}
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Platforms */
+
+.platforms{
+width: 69px;
+height: 16px;
+
+font-family: 'Museo Sans Cyrl';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 16px;
+/* identical to box height, or 107% */
+
+/* Gray 1 */
+color: #333333;
+
+}
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Contact */
+
+.contact{
+width: 57px;
+height: 16px;
+
+font-family: 'Museo Sans Cyrl';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 16px;
+/* identical to box height, or 107% */
+
+/* Gray 1 */
+color: #333333;
+
+}
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+
+/* Frame 523 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 13px 24px;
+gap: 10px;
+
+position: absolute;
+width: 167px;
+height: 40px;
+left: 1213px;
+top: 20px;
+
+/* violet */
+background: #6248FF;
+border-radius: 60px;
+
+
+/* Sign in for free */
+
+width: 119px;
+height: 14px;
+
+font-family: 'Museo Sans Cyrl';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height, or 100% */
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 525 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 10px 16px;
+gap: 10px;
+
+position: absolute;
+width: 80px;
+height: 40px;
+left: 1109px;
+top: 20px;
+
+border: 1px solid #000000;
+border-radius: 60px;
+
+
+/* Group 675 */
+
+width: 48px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* EN */
+
+position: absolute;
+width: 20px;
+height: 16px;
+left: 16px;
+top: 12px;
+
+font-family: 'Museo Sans Cyrl';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 16px;
+/* identical to box height, or 107% */
+
+/* Gray 1 */
+color: #333333;
+
+
+
+/* entypo:chevron-small-down */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 44px;
+top: 10px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 26.99%;
+right: 27.01%;
+top: 38.29%;
+bottom: 35.71%;
+
+background: #000000;
+/* Rectangle 552 */
+
+
+
