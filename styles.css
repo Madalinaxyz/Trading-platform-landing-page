@@ -366,14 +366,26 @@ border-radius: 60px;
 
 /* Group 675 */
 
-width: 48px;
-height: 20px;
+
+/* width: 48px;
+height: 20px; */
 
 
 /* Inside auto layout */
 flex: none;
 order: 0;
 flex-grow: 0;
+.en_button_container{
+    
+position: absolute;
+left: 26.99%;
+right: 27.01%;
+top: 38.29%;
+bottom: 35.71%;
+
+background: #000000;
+
+}
 /* EN */
 .en_tag{
 position: absolute;
@@ -404,18 +416,17 @@ left: 44px;
 top: 10px;
 }
 
-
-
-/* Vector */
-
-position: absolute;
-left: 26.99%;
-right: 27.01%;
-top: 38.29%;
-bottom: 35.71%;
-
-background: #000000;
 /* Rectangle 552 */
+.sign-in_button{
+width: 167px;
+height: 40px;
+top: 20px;
+left: 1213px;
+padding: 13px, 24px, 13px, 24px;
+border-radius: 60px;
+gap: 10px;
+
+}
 
 
 
